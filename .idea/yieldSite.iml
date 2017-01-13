@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-core/src" isTestSource="false" packagePrefix="Owl" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-service/src" isTestSource="false" packagePrefix="Owl" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-mvc/src" isTestSource="false" packagePrefix="Owl" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-orm/src" isTestSource="false" packagePrefix="Owl" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-mvc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/yeaha/owl-orm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/monolog/monolog/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/vendor/psr/log" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
